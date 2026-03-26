@@ -87,9 +87,11 @@ If you find this repository useful:
 
 # 📈 Progress
 
-* Python Tips: Coming soon
+* Python Tips: 10
 * JavaScript Tips: Coming soon
 * Linux Tips: Coming soon
+* Git Tips: Coming soon
+* CyberSecurity Tips: Coming soon
 
 ---
 
