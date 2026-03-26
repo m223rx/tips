@@ -88,11 +88,11 @@ If you find this repository useful:
 # 📈 Progress
 
 * Python Tips: 10
-* JavaScript Tips: Coming soon
+* JavaScript Tips: 10
 * Linux Tips: Coming soon
 * Git Tips: Coming soon
 * CyberSecurity Tips: Coming soon
 
 ---
 
-Built with ❤️ by developers, for developers.
+Built by m223rx, for developers.
