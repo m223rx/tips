@@ -3,7 +3,7 @@
 Extract values from objects easily.
 
 ```javascript id="js-destruct"
-const user = {name: "Mohamed", age: 22};
+const user = {name: "m223rx", age: 22};
 const {name, age} = user;
 
 console.log(name, age);
@@ -12,5 +12,5 @@ console.log(name, age);
 **Output:**
 
 ```
-Mohamed 22
+m223rx 22
 ```

@@ -3,7 +3,7 @@
 Avoid errors accessing nested properties.
 
 ```javascript id="js-optional"
-const user = {profile: {name: "Mohamed"}};
-console.log(user.profile?.name);    // Mohamed
+const user = {profile: {name: "m223rx"}};
+console.log(user.profile?.name);    // m223rx
 console.log(user.address?.city);    // undefined
 ```

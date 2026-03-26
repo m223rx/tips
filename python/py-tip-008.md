@@ -5,7 +5,7 @@ Use `.get()` to avoid errors.
 ## Example
 
 ```python
-user = {"name": "Mohamed"}
+user = {"name": "m223rx"}
 
 print(user.get("age", "Not Found"))
 ```

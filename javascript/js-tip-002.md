@@ -3,7 +3,7 @@
 Use template literals for cleaner string concatenation.
 
 ```javascript id="js-template"
-const name = "Mohamed";
+const name = "m223rx";
 const greeting = `Hello, ${name}!`;
 
 console.log(greeting);
@@ -12,5 +12,5 @@ console.log(greeting);
 **Output:**
 
 ```
-Hello, Mohamed!
+Hello, m223rx!
 ```
