@@ -27,6 +27,7 @@ More categories will be added over time.
 ```
 tips/
 │
+├── challanges/
 ├── python/
 ├── javascript/
 ├── linux/
@@ -45,21 +46,6 @@ Each folder contains tips related to its specific technology.
 * Improve developer productivity
 * Build a helpful reference repository
 * Learn something new every day
-
----
-
-# 🚀 Example Tip
-
-```python
-# Swap variables without temporary variable
-
-a = 5
-b = 10
-
-a, b = b, a
-```
-
-Simple, clean, and Pythonic.
 
 ---
 
