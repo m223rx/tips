@@ -30,14 +30,3 @@ Your program should output a single integer: the total number of palindrome part
 ## Bonus
 - Optimize the solution to run in **O(n)** time using Manacher’s algorithm or another advanced technique.
 - Extend the program to also output **all** distinct palindrome partitions (one per line) in lexicographic order, in addition to the count. (Be mindful of potential exponential output; this bonus is optional.)
-    
-
-
----
-**Author:** m223rx
-**Date:** 2026-03-28 13:54:28
----
-    
-
-
-    
