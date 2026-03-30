@@ -77,7 +77,7 @@ If you find this repository useful:
 * JavaScript Tips: 10
 * Linux Tips: 10
 * Git Tips: 10
-* CyberSecurity Tips: Coming soon
+* CyberSecurity Tips: 10
 
 ---
 
