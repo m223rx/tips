@@ -76,7 +76,7 @@ If you find this repository useful:
 * Python Tips: 10
 * JavaScript Tips: 10
 * Linux Tips: 10
-* Git Tips: Coming soon
+* Git Tips: 10
 * CyberSecurity Tips: Coming soon
 
 ---
