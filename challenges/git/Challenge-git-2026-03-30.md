@@ -31,5 +31,3 @@ git commit -m "Your message"
 git pull   # integrate remote changes
 git push   # share your commits
 ```
-
-Feel free to ask if you need details on a specific command or a more advanced Git topic!
