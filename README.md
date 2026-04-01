@@ -74,6 +74,7 @@ If you find this repository useful:
 # 📈 Progress
 
 * Python Tips: 10
+* Docker Tips: 10
 * JavaScript Tips: 10
 * Linux Tips: 10
 * Git Tips: 10
