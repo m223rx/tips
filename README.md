@@ -79,6 +79,7 @@ If you find this repository useful:
 * Linux Tips: 10
 * Git Tips: 10
 * Sql Tips: 10
+* Bash Tips: 10
 * CyberSecurity Tips: 10
 
 ---
