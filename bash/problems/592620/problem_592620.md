@@ -2,7 +2,7 @@
 
 **Source:** [View on StackOverflow](https://stackoverflow.com/questions/592620/how-can-i-check-if-a-program-exists-from-a-bash-script)  
 **Tags:** `bash`  
-**Fetched:** 2026-04-02 20:14:29
+**Fetched:** 2026-05-20 22:56:16
 
 ---
 
