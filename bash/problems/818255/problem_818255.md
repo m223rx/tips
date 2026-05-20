@@ -2,7 +2,7 @@
 
 **Source:** [View on StackOverflow](https://stackoverflow.com/questions/818255/what-does-21-mean)  
 **Tags:** `bash`, `shell`, `unix`  
-**Fetched:** 2026-04-02 20:13:27
+**Fetched:** 2026-05-20 22:55:42
 
 ---
 
