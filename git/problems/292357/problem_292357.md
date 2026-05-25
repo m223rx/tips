@@ -2,7 +2,7 @@
 
 **Source:** [View on StackOverflow](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch)  
 **Tags:** `git`, `version-control`, `git-pull`, `git-fetch`  
-**Fetched:** 2026-03-29 20:49:30
+**Fetched:** 2026-05-25 20:16:05
 
 ---
 
