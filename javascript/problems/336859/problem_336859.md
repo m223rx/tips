@@ -2,7 +2,7 @@
 
 **Source:** [View on StackOverflow](https://stackoverflow.com/questions/336859/var-functionname-function-vs-function-functionname)  
 **Tags:** `javascript`, `function`, `methods`, `syntax`  
-**Fetched:** 2026-03-28 22:49:03
+**Fetched:** 2026-05-28 21:06:37
 
 ---
 
