@@ -2,7 +2,7 @@
 
 **Source:** [View on StackOverflow](https://stackoverflow.com/questions/208105/how-do-i-remove-a-property-from-a-javascript-object)  
 **Tags:** `javascript`, `object`, `properties`  
-**Fetched:** 2026-03-28 22:51:11
+**Fetched:** 2026-05-28 21:09:13
 
 ---
 
