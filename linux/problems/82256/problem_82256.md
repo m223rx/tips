@@ -2,7 +2,7 @@
 
 **Source:** [View on StackOverflow](https://stackoverflow.com/questions/82256/how-do-i-use-sudo-to-redirect-output-to-a-location-i-dont-have-permission-to-wr)  
 **Tags:** `linux`, `bash`, `permissions`, `sudo`, `io-redirection`  
-**Fetched:** 2026-04-14 22:03:42
+**Fetched:** 2026-05-31 21:51:34
 
 ---
 
