@@ -2,7 +2,7 @@
 
 **Source:** [View on StackOverflow](https://stackoverflow.com/questions/226703/how-do-i-prompt-for-yes-no-cancel-input-in-a-linux-shell-script)  
 **Tags:** `linux`, `bash`, `shell`, `scripting`  
-**Fetched:** 2026-03-30 21:36:47
+**Fetched:** 2026-05-31 21:35:40
 
 ---
 
