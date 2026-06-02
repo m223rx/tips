@@ -2,7 +2,7 @@
 
 **Source:** [View on StackOverflow](https://stackoverflow.com/questions/419163/what-does-if-name-main-do)  
 **Tags:** `python`, `namespaces`, `program-entry-point`, `python-module`, `idioms`  
-**Fetched:** 2026-03-26 19:35:54
+**Fetched:** 2026-06-02 22:34:38
 
 ---
 
