@@ -2,7 +2,7 @@
 
 **Source:** [View on StackOverflow](https://stackoverflow.com/questions/456211/activity-restart-on-rotation-android)  
 **Tags:** `android`, `rotation`, `android-activity`  
-**Fetched:** 2026-04-16 21:52:27
+**Fetched:** 2026-06-05 12:41:12
 
 ---
 
